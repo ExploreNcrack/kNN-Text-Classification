@@ -30,6 +30,3 @@ For the parameter k, of deciding how many top k of the nearest neighbour we shou
 </br>On the Lab machine, best k is k=4 with accuracy as 81.2%
 </br>These differences may be caused by the nltk library or something.. not 100% sure why
 
-# Don't forget to:
-
-1. Document and justify your design choices
